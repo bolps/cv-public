@@ -8,7 +8,7 @@
 
 ## 🔎 Research interest
 
-Computational Social Science, Machine Learning, Artificial Intelligence
+Computational Social Science, Human–computer interaction (HCI), Machine Learning, Artificial Intelligence
 
 ## 👨‍🎓 Education
 
@@ -22,7 +22,7 @@ Catholic University of the Sacred Heart, School of Economics - Milan, Italy _(Fe
 * **Thesis:** Linking Conflict Strategy to Five Factor Model Personality using Twitter Feed and IBM Watson
 * **Project-work:** Social media mining and targeting: how to leverage social data to better design campaigns
 
-**[Bachelor degree in Psychological Sciences](https://offertaformativa.unicatt.it/cdl-dettagli-del-corso-curriculum-3A3B-2020#structure) (180 ECTS)**<br>
+**[Bachelor degree in Psychological Sciences](https://offertaformativa.unicatt.it/cdl-dettagli-del-corso-curriculum-3A3B-2021#structure) (180 ECTS)**<br>
 Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _(Oct 2013 - Jul 2016)_
 
 
