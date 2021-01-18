@@ -2,7 +2,7 @@
 
 *A data enthusiast interested in science*
 
-Born on May 20, 1992 in Brescia, Italy <br>
+Brescia, Italy <br>
 [(+39) 351 9446948 ]() / [Email](mailto:marco.bolpagni@gmail.com) / [Skype](https://join.skype.com/invite/a5mZ2qgmDPeU) / [GitHub](https://github.com/bolps/) / [LinkedIn](https://www.linkedin.com/in/marcobolpagni/)
 
 ## 🔎 Research interest
