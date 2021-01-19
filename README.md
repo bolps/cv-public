@@ -65,6 +65,4 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 *I hereby authorize the use of my personal data in accordance to the GDPR 679/16 - "European regulation on the protection of personal data"*
 
----
-
 📥 [Download PDF](https://github.com/bolps/cv-public/raw/main/CV%20Marco%20Bolpagni%20(2021).pdf)
