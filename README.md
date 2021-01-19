@@ -67,4 +67,4 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 ---
 
-[Download PDF](https://github.com/bolps/cv-public/raw/main/CV%20Marco%20Bolpagni%20(2021).pdf)
+📥 [Download PDF](https://github.com/bolps/cv-public/raw/main/CV%20Marco%20Bolpagni%20(2021).pdf)
