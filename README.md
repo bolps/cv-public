@@ -1,6 +1,6 @@
 # Marco Bolpagni
 
-*I have always been interested in human behavior and the interaction between people and technology. I consider computational methods a valuable tool for investigating behavior and creating robust models that can be applied in the real world.*
+*I have always been interested in human behavior and the interaction between people and technology. I consider computational methods a valuable tool for investigating behavior and creating human centered models that can be applied in the real world.*
 
 Brescia, Italy <br>
 [(+39) 351 9446948 ]() / [Email](mailto:marco.bolpagni@gmail.com) / [Skype](https://join.skype.com/invite/a5mZ2qgmDPeU) / [GitHub](https://github.com/bolps/) / [LinkedIn](https://www.linkedin.com/in/marcobolpagni/)
