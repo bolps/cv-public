@@ -13,7 +13,7 @@ Computational Social Science, Machine Learning, Artificial Intelligence
 
 **[First-Level Master’s Degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (60 ECTS)**<br>
 University of Rome Tor Vergata, School of Engineering - Rome, Italy _(Feb 2020 - Apr 2021 Expected)_ <br>
-* **Technologies used:** Python, R, Tableau
+* **Thesis:** EMOtivo: a classifier for emotion detection of Italian texts trained on a self-labelled corpus
 * **Focus on:** Statistics, Data Mining, Machine Learning, Big Data, Text Analytics, Networks, Data visualization
 
 **[First-Level Master’s Degree in Marketing Management](https://offertaformativa.unicatt.it/master-marketing-management) (70 ECTS)**<br>
