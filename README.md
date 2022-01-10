@@ -33,6 +33,8 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 ## 👨‍💻 Experience
 
+**Data Engineer** @ [San.Arti.](https://www.sanarti.it/) _(May 2021 - Dec 2021)_ <br>
+
 **Marketing & Data Science Internship** @ [KPI6](https://kpi6.com/) _(Nov 2017 - Apr 2018)_ <br>
 * Classifier implementation for potential new customers with bot detection system
 * Creation of advertising campaigns using social media listening
