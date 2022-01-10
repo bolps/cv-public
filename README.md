@@ -47,7 +47,7 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 ## 📰 Publications
 
-** Bolpagni, M. (2021). *Cyber risk index: a socio-technical composite index for assessing risk of cyber attacks with negative outcome.* Quality & Quantity, 1-17.
+* Bolpagni, M. (2021). *Cyber risk index: a socio-technical composite index for assessing risk of cyber attacks with negative outcome.* Quality & Quantity, 1-17.
 
 ## 🏆 Accomplishments
 
