@@ -19,7 +19,7 @@ University of Verona, School of Computer Science - Verona, Italy _(Oct 2021 - Ma
 **[Post-graduate degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (60 ECTS)**<br>
 University of Rome Tor Vergata, School of Engineering - Rome, Italy _(Feb 2020 - Jul 2021)_ <br>
 * **Thesis:** EMOtivo: a classifier for emotion detection of Italian texts trained on a self-labelled corpus
-* **Focus on:** Statistics, Data Mining, Machine Learning, Big Data, Text Analytics, Network Science, Data visualization
+* **Focus on:** Statistics, Big Data, Natural Language Processing, Network Science, Data visualization
 
 **[Bachelor degree in Psychological Sciences](https://offertaformativa.unicatt.it/cdl-dettagli-del-corso-curriculum-3A3B-2020#structure) (180 ECTS)**<br>
 Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _(Oct 2013 - Jul 2016)_
