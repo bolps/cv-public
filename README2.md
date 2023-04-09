@@ -31,8 +31,7 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 *Find more information about the [Italian Education System](https://web.uniroma2.it/module/name/Content/newlang/english/navpath/COU/section_parent/5614) and [EQF levels](https://europa.eu/europass/en/compare-qualifications?field_location_selection_target_id%5B6055%5D=6055&field_location_selection_target_id%5B6073%5D=6073)*
 
 ## 📰 Publications
-Marco Bolpagni; Marco Broglio; Andrea Innocenzi; Tommaso Ulivieri
-2022
+
 
 * Bolpagni, M., Broglio, M., Innocenzi, A. & Ulivieri, T. (2022). *EMOtivo: a classifier for emotion detection of Italian texts trained on a self-labelled corpus.* 16th International Conference on Statistical Analysis of Textual Data.
 * Bolpagni, M. (2021). *Cyber risk index: a socio-technical composite index for assessing risk of cyber attacks with negative outcome.* Quality & Quantity, 1-17.
