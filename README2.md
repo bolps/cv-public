@@ -35,23 +35,11 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 **Data Engineer** @ [San.Arti.](https://www.sanarti.it/) _(May 2021 - Dec 2021)_ <br>
 
 **Marketing & Data Science Internship** @ [KPI6](https://kpi6.com/) _(Nov 2017 - Apr 2018)_ <br>
-* Classifier implementation for potential new customers with bot detection system
-* Creation of advertising campaigns using social media listening
-* Reports writing on how to use social media listening for brand awareness, brand reputation, competitive intelligence and consumer insights for third-party clients and corporate blogs
-
-**IT Specialist** @ VoixUp srl _(Sept 2011 - Jun 2013)_ <br>
-* Hardware and software troubleshooting
-* Database management
-* Front-end web development
+* bla *
 
 ## 📰 Publications
 
 * Bolpagni, M. (2021). *Cyber risk index: a socio-technical composite index for assessing risk of cyber attacks with negative outcome.* Quality & Quantity, 1-17.
-
-## 🏆 Accomplishments
-
-**[Salumi Pasini & Nielsen: Best data driven retail entry strategy](https://bit.ly/3aXUqKv)** @ Catholic University of the Sacred Heart _(Jun 2017)_ <br>
-*Won the "Best-project" in the challenge sponsored by Salumi Pasini (Milan-based food company) and Nielsen (global information & measurement company) for the design of a data-driven market strategy to enter the large-scale retail trade.*
 
 ## 💬 Languages
 
