@@ -32,6 +32,9 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 ## 👨‍💻 Experience
 
+**High School Teacher - Computer Science** @ [Istituto Tecnico Agrario Statale "G. Pastori"](https://www.itaspastori.edu.it/) _(Gen 2023 - Today)_ <br>
+*Bla bla?*
+
 **University Tutor - Science and Engineering** @ [University of Verona](https://www.univr.it/it/) _(Gen 2022 - Nov 2022)_ <br>
 *As a tutor, I provided guidance to students (especially foreign students) in order to support the organizational and administrative aspects of university life. In particular I focused on guiding and assisting students of the Bachelor’s degree, in particular freshmen, to make them participate in the entire educational process, with the aim of preventing dropout and delay in studies, as well as promoting a profitable active participation in university life in all its forms.*
 
