@@ -30,7 +30,11 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 *Find more information about the [Italian Education System](https://web.uniroma2.it/module/name/Content/newlang/english/navpath/COU/section_parent/5614) and [EQF levels](https://europa.eu/europass/en/compare-qualifications?field_location_selection_target_id%5B6055%5D=6055&field_location_selection_target_id%5B6073%5D=6073)*
 
-## 👨‍💻 Experience
+## 📰 Publications
+
+* Bolpagni, M. (2021). *Cyber risk index: a socio-technical composite index for assessing risk of cyber attacks with negative outcome.* Quality & Quantity, 1-17.
+
+## 👨‍💻 Work Experience
 
 **High School Teacher - Computer Science** @ [Istituto Tecnico Agrario Statale "G. Pastori"](https://www.itaspastori.edu.it/) _(Gen 2023 - Today)_ <br>
 *Bla bla?*
@@ -43,10 +47,6 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 **Marketing & Data Science Internship** @ [KPI6](https://kpi6.com/) _(Nov 2017 - Apr 2018)_ <br>
 *During my internship, I explored aspects of business intelligence and artificial intelligence models. I drafted reports for the marketing department regarding possible applications of social media listening in different fields (food, energy, banking, healthcare).*
-
-## 📰 Publications
-
-* Bolpagni, M. (2021). *Cyber risk index: a socio-technical composite index for assessing risk of cyber attacks with negative outcome.* Quality & Quantity, 1-17.
 
 ## 💬 Languages
 
