@@ -7,7 +7,7 @@ Brescia, Italy <br>
 
 ## 🔎 Research interest
 
-AI and Psychology, Computational Psychology, ...
+AI and Psychology, Computational Psychology, Statistical methods
 
 ## 👨‍🎓 Education
 
