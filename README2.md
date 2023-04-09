@@ -54,9 +54,6 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 **Italian**: Native <br>
 **English**: Cambridge English Level 2 Certificate in ESOL International (C1 CEFR) <br>
-<br>
-**International experience** studying English<br>
-[Kings College](https://www.kingseducation.com/uk-uni/kings-bournemouth) - Bournemouth, United Kingdom _(Sept 2016 - Feb 2017)_
 
 ## ⚖️ Privacy
 
