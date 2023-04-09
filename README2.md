@@ -13,7 +13,7 @@ AI and Psychology, Computational Psychology, ...
 
 **[Master’s Degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (120 ECTS)**<br>
 University of Verona, School of Computer Science - Verona, Italy _(Oct 2021 - Mar 2023)_ <br>
-* **Thesis:** Bla Bla
+* **Thesis:** Autism spectrum disorder identification from visual exploration of images
 * **Personal focus on:** Statistical models, Machine Learning, Programming
 
 **[Post-graduate degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (60 ECTS)**<br>
