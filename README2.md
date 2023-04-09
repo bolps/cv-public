@@ -11,7 +11,7 @@ AI and Psychology, Computational Psychology, Statistical methods
 
 ## 👨‍🎓 Education
 
-**[Master’s Degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (120 ECTS)**<br>
+**[Master’s Degree in Data Science](https://www.corsi.univr.it/?ent=cs&id=955&lang=en) (120 ECTS)**<br>
 University of Verona, School of Computer Science - Verona, Italy _(Oct 2021 - Mar 2023)_ <br>
 * **Thesis:** *Autism spectrum disorder identification from visual exploration of images*
 * **Personal focus on:** Statistical models, Machine Learning, Programming
