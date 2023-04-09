@@ -24,7 +24,7 @@ University of Rome Tor Vergata, School of Engineering - Rome, Italy _(Feb 2020 -
 **[Bachelor degree in Psychological Sciences](https://offertaformativa.unicatt.it/cdl-dettagli-del-corso-curriculum-3A3B-2020#structure) (180 ECTS)**<br>
 Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _(Oct 2013 - Jul 2016)_
 
-**Secondary School Diploma in Information Technology**<br>
+**Secondary School Diploma in Computer Science**<br>
 [I.S.S. Benedetto Castelli](https://www.iiscastelli.edu.it/) - Brescia, Italy _(Sept 2006 - Sept 2011)_
 <br>
 
