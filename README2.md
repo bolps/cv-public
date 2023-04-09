@@ -14,15 +14,15 @@ Bla Bla keywords
 **[Master’s Degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (120 ECTS)**<br>
 University of Verona, School of Computer Science - Verona, Italy _(Oct 2021 - Mar 2023)_ <br>
 * **Thesis:** Bla Bla
-* **Focus on:** Statistical models, Machine Learning, Programming
+* **Personal focus on:** Statistical models, Machine Learning, Programming
 
 **[Post-graduate degree in Data Science](http://datascience.uniroma2.it/insegnamenti/) (60 ECTS)**<br>
 University of Rome Tor Vergata, School of Engineering - Rome, Italy _(Feb 2020 - Jul 2021)_ <br>
-* **Focus on:** Statistics, Big Data, Natural Language Processing, Network Science, Data visualization
+* **Personal focus on:** Statistics, Big Data, Natural Language Processing, Network Science, Data visualization
 
 **[Bachelor degree in Psychological Sciences](https://offertaformativa.unicatt.it/cdl-dettagli-del-corso-curriculum-3A3B-2020#structure) (180 ECTS)**<br>
 Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _(Oct 2013 - Jul 2016)_
-* **Focus on:** Psychology, Research Methods, Neuroscience
+* **Personal focus on:** Psychology, Research Methods, Neuroscience
 
 **Secondary School Diploma in Computer Science**<br>
 [I.S.S. Benedetto Castelli](https://www.iiscastelli.edu.it/) - Brescia, Italy _(Sept 2006 - Sept 2011)_
