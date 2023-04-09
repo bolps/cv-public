@@ -32,10 +32,14 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 
 ## 👨‍💻 Experience
 
-**Data Engineer** @ [San.Arti.](https://www.sanarti.it/) _(May 2021 - Dec 2021)_ <br>
+**University Tutor - Science and Engineering** @ [University of Verona](https://www.univr.it/it/) _(Gen 2022 - Nov 2022)_ <br>
+*As a tutor, I provided guidance to students (especially foreign students) in order to support the organizational and administrative aspects of university life. In particular I focused on guiding and assisting students of the Bachelor’s degree, in particular freshmen, to make them participate in the entire educational process, with the aim of preventing dropout and delay in studies, as well as promoting a profitable active participation in university life in all its forms.*
+
+**Healthcare Data Engineer** @ [San.Arti.](https://www.sanarti.it/) _(May 2021 - Dec 2021)_ <br>
+*As a Healthcare Data Engineer, I have built and maintained systems that facilitate the extraction and transformation of information contained in hospital medical records and their integration with internal applications.*
 
 **Marketing & Data Science Internship** @ [KPI6](https://kpi6.com/) _(Nov 2017 - Apr 2018)_ <br>
-* bla *
+*During my internship, I explored aspects of business intelligence and artificial intelligence models. I drafted reports for the marketing department regarding possible applications of social media listening in different fields (food, energy, banking, healthcare).*
 
 ## 📰 Publications
 
