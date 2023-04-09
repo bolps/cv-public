@@ -7,7 +7,7 @@ Brescia, Italy <br>
 
 ## 🔎 Research interest
 
-Bla Bla keywords
+AI and Psychology, Computational Psychology, ...
 
 ## 👨‍🎓 Education
 
