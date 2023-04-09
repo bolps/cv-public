@@ -28,7 +28,7 @@ Catholic University of the Sacred Heart, School of Psychology - Brescia, Italy _
 [I.S.S. Benedetto Castelli](https://www.iiscastelli.edu.it/) - Brescia, Italy _(Sept 2006 - Sept 2011)_
 <br>
 
-*Find more information about the [Italian Education System](https://web.uniroma2.it/module/name/Content/newlang/english/navpath/COU/section_parent/5614) and [EQF levels](https://europa.eu/europass/en/compare-qualifications?field_location_selection_target_id%5B6055%5D=6055&field_location_selection_target_id%5B6073%5D=6073)*
+*Find more information about the [Italian Education System](https://eurydice.eacea.ec.europa.eu/national-education-systems/italy/overview) and [EQF levels](https://europa.eu/europass/en/compare-qualifications?field_location_selection_target_id%5B6055%5D=6055&field_location_selection_target_id%5B6073%5D=6073)*
 
 ## 📰 Publications
 
